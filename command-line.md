@@ -1,7 +1,7 @@
 # 1.2 Command Line and GitHub
 
 #Without using jargon, how would you describe the command line to a lay person (e.g. your mum)?
-Command line is a way of navigating around your computer using only words and written commands, rather than using any visual aids or info graphics. You are achieving exactly the same thing as you would by using a mouse, but you are writing the instructions of navigation instead of navigation clicking and with a mouse. The outcome is entirely the same.
+Command line is a way of navigating around your computer using only words and written commands, rather than using any visual aids or info graphics. You are achieving exactly the same thing as you would by using a mouse, but you are writing the instructions of navigation rather than navigating clicking the mouse. The outcome is entirely the same.
 
 #List 10 terminal commands and in plain english (i.e. with minimal technical jargon) describe what they do.
 
